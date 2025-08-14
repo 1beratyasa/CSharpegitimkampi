@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _06_Methoods
+namespace _08_Methoods
 {
     internal class Program
     {
